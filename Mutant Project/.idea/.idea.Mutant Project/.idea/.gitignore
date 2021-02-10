@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Mutant Project.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\jaewo\OneDrive\바탕 화면\LULUSProject\MUTANT\Mutant Project\.idea\.idea.Mutant Project\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
