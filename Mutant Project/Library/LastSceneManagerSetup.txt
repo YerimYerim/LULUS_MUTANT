@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/JaeWon/JaeWonScene.unity
+=======
+- path: Assets/Yerim/YerimScene.unity
+>>>>>>> 8f4eeaa894445f50b3263c32d17b5352f04c2373
   isLoaded: 1
   isActive: 1
   isSubScene: 0

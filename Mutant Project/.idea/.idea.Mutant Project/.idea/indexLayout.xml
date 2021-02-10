@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ContentModelUserStore">
     <attachedFolders />
+<<<<<<< HEAD
     <explicitIncludes>
       <Path>Library/PackageCache/com.unity.collab-proxy@1.3.9</Path>
       <Path>Library/PackageCache/com.unity.ext.nunit@1.0.6</Path>
@@ -26,5 +27,9 @@
       <Path>UserSettings</Path>
       <Path>obj</Path>
     </explicitExcludes>
+=======
+    <explicitIncludes />
+    <explicitExcludes />
+>>>>>>> 8f4eeaa894445f50b3263c32d17b5352f04c2373
   </component>
 </project>
